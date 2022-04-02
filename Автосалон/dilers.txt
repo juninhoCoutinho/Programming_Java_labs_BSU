@@ -1,0 +1,5 @@
+Rayola 000123 A 23.07.1963 Tourin 2500000 0.15
+Mendes 000234 B 04.08.1962 Lisboan,Dragao 3000000 0.075
+Mourinho 000007 D 26.01.1963 Rome,Stadio_Olimpico 7500000 0.03
+Pioli 000016 Pro 01.09.1969 Milano,San_Siro 2300000 0.15
+Klopp 000001 Pro 16.06.1967 Liverpool,Anfield_Road 5000000 0.15

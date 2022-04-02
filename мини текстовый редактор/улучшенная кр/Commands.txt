@@ -1,0 +1,28 @@
+print
+go_to 0 3
+backspace
+backspace
+backspace
+go_to 5 0 erty
+print
+go_to 0 10
+del
+backspace
+go_to 0 0
+print
+go_to 0 0
+go_to 1 6
+enter
+go_to 0 0
+print
+ctrl_down
+print
+go_to 1 6
+ctrl_up
+print
+qwerty
+ins
+asdfghj
+go_to 0 0
+print
+file_print
